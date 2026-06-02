@@ -1,4 +1,4 @@
-# Chris Mbanta
+
 
 I'm a GTM Engineer who builds automation systems that turn manual sales operations work into repeatable, data-accurate processes. This repository contains workflows I built to automate outbound reporting, win/loss analysis, and ICP intelligence, work that previously consumed 30+ hours of manual effort every two weeks.
 
